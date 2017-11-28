@@ -8,30 +8,30 @@
     },
     "installed_plugins": {
         "cordova-plugin-android-support-v4": {
-            "PACKAGE_NAME": "io.cordova.vuforiaplugin"
+            "PACKAGE_NAME": "io.cordova.hellocordova"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "io.cordova.vuforiaplugin"
+            "PACKAGE_NAME": "io.cordova.hellocordova"
         },
         "cordova-plugin-media": {
-            "PACKAGE_NAME": "io.cordova.vuforiaplugin"
+            "PACKAGE_NAME": "io.cordova.hellocordova"
         },
         "cordova-plugin-vuforia": {
-            "PACKAGE_NAME": "io.cordova.vuforiaplugin"
+            "PACKAGE_NAME": "io.cordova.hellocordova"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "io.cordova.vuforiaplugin"
+            "PACKAGE_NAME": "io.cordova.hellocordova"
         }
     },
     "dependent_plugins": {
         "cordova-plugin-compat": {
-            "PACKAGE_NAME": "io.cordova.vuforiaplugin"
+            "PACKAGE_NAME": "io.cordova.hellocordova"
         },
         "cordova-plugin-file": {
-            "PACKAGE_NAME": "io.cordova.vuforiaplugin"
+            "PACKAGE_NAME": "io.cordova.hellocordova"
         },
         "cordova-plugin-vuforia-sdk": {
-            "PACKAGE_NAME": "io.cordova.vuforiaplugin"
+            "PACKAGE_NAME": "io.cordova.hellocordova"
         }
     }
 }
