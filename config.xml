@@ -11,7 +11,7 @@
     <plugin name="cordova-plugin-crosswalk-webview"/>
     <plugin name="cordova-plugin-compat" spec="1.0.0"/>
     <plugin name="cordova-plugin-device" spec="1.1.2"/>
-    <plugin name="cordova-plugin-file" spec="4.2.0"/>
+    <plugin name="cordova-plugin-file" spec="4.3.3"/>
     <plugin name="cordova-plugin-media" spec="2.3.0"/>
     <plugin name="cordova-plugin-vuforia" spec="3.2.0"/>
     <plugin name="cordova-plugin-vuforia-sdk" spec="1.0.0"/>
