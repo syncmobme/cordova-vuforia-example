@@ -5,7 +5,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "",
       "projectGuid": "17e76b0f-9147-4eb0-af4d-a90fbb6a65c3",
-      "lastModifiedDate": 1511902738855,
+      "lastModifiedDate": 1511906716896,
       "creationDate": 1511902626335
     },
     "testDirectory": "test",
@@ -62,7 +62,7 @@
           "deployment-target": "8.0",
           "ios-configuration": "adhoc"
         },
-        "isActive_": true,
+        "isActive_": false,
         "certificateId_": "",
         "appName_": "vuforia-exemplo",
         "appID_": "not.yet.specified",
@@ -86,7 +86,7 @@
         "runtime_": "Cordova 3.x",
         "name_": "Windows8",
         "preferences_": {},
-        "isActive_": true,
+        "isActive_": false,
         "certificateId_": "",
         "appName_": "vuforia-exemplo",
         "appID_": "not.yet.specified",
